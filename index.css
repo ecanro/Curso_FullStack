@@ -15,9 +15,12 @@ h1{
 }
 
 .slider{
-    width: 95%;
+    width: 85.5%;
     margin: auto;
     overflow: hidden;
+}
+.slider{
+    margin-top: 25px;
 }
 
 .slider ul{
